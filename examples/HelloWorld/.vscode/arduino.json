@@ -1,0 +1,8 @@
+{
+    "board": "arduino:renesas_uno:minima",
+    "port": "COM4",
+    "sketch": "HelloWorld.ino",
+    "output": "../.build/HelloWorld",
+    "programmer": "Atmel STK500 development board",
+    "prebuild": "pwsh \".vscode/BuildViews.ps1\""
+}
