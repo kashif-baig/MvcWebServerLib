@@ -79,7 +79,7 @@ Watch a short demonstration of the benefits of using Arduino web project and vie
 
 Arduino Server Pages, or ASPs, are HTML markup files that have C++ scripting tags. When integrated with Visual Studio Code, the view builder utility converts the ASP files to native C++ before building and deploying the project to an Arduino.
 
-Follow the readme instructions that accompany the utilities to learn how to install and use them.
+Follow the readme instructions that accompany the utilities to learn how to install and use them. Additional information can be found at the [project website](https://www.cohesivecomputing.co.uk/arduino-web-development-pushing-the-limits/#vscode).
 
 ## Example Arduino Web Projects
 
