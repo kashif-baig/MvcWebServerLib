@@ -1,4 +1,4 @@
-## Arduino Web Server using MVC Framework
+## A Model-View-Controller Web Server and Framework
 
 Get a head start developing Arduino IOT and web applications using the MVC Web Framework and build utilities. The Arduino MVC Web Framework offers numerous advantages for building sophisticated web server applications on the Arduino platform:
 
